@@ -286,6 +286,7 @@ body {
 .hard-skills__list,
 .soft-skills__list {
 	margin-left: 50px;
+	margin-bottom: 80px;
 }
 .hard-skills__item,
 .soft-skills__item {
